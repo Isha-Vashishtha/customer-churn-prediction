@@ -1,0 +1,21 @@
+﻿# Virtual environments
+venv/
+churn_env/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Streamlit cache
+.streamlit/
+
+# Large trained models
+*.h5
+*.joblib
+*.pickle
